@@ -1,0 +1,163 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: #f5f6fa;
+}
+
+/* Ajustement des sections principales */
+.container {
+    display: flex;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 240px;
+    background-color: #333434;
+    color: #fff;
+    padding-top: 30px;
+    height: 100vh;
+    position: fixed;
+}
+
+.sidebar-logo {
+    display: block;
+    margin: 0 auto 20px;
+    width: 160px;
+}
+
+.sidebar nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar nav ul li {
+    padding: 10px 20px;
+}
+
+.sidebar nav ul li a {
+    color: #B0BEC5;
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    transition: color 0.3s;
+}
+
+.sidebar nav ul li a:hover {
+    color: #00bcd4; /* Teal pour hover */
+}
+
+/* Main Content */
+.main-content {
+    margin-left: 260px;
+    padding: 20px;
+    width: calc(100% - 260px);
+}
+
+/* Page Header */
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.page-header h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.search-container input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    outline: none;
+}
+
+/* Masquer les cellules de données des colonnes spécifiques */
+.hide-column {
+    display: none;
+}
+
+
+/* Masquer uniquement les en-têtes de colonne */
+.hide-header {
+    display: none;
+}
+
+/* Titre des tableaux */
+.table-title {
+    font-size: 20px;
+    color: #333;
+    margin: 20px 0 10px 0;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 0;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+table thead {
+    background-color: #03A9F4;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+table th, table td {
+    padding: 12px;
+    text-align: left;
+    color: #333;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+table tr:hover {
+    background-color: #f1f1f1;
+}
+
+button.remove-btn {
+    padding: 5px 10px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+button.remove-btn:hover {
+    background-color: #d32f2f;
+}
+
+/* Highlighted Elements */
+.highlight-red {
+    color: #f44336;
+}
+
+.highlight-green {
+    color: #00d45a;
+}
+
+.highlight-orange {
+    color: #ffc107;
+}

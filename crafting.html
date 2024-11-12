@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crafting Materials</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <img src="images/dr_fly_logo_tools.png" alt="DDON Tools Logo" class="sidebar-logo">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Dashboard</a></li>
+                    <li><a href="crafting.html">Crafting Materials</a></li>
+                    <li><a href="enemies.html">Enemies & Loots</a></li>
+                    <li><a href="maps.html">Maps</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Header Section -->
+            <header class="page-header">
+                <h1>Crafting Materials</h1>
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Search by item name...">
+                </div>
+            </header>
+
+            <!-- Wish List Section -->
+            <h2 class="table-title">My Craft Wish List</h2>
+            <section class="card secondary-card">
+                <table id="wishListTable">
+                    <thead>
+                        <tr>
+                            <th>Select</th>
+                            <th>Recipe ID</th>
+                            <th>Item Name</th>
+                            <th>Category</th>
+                            <th class="hide-header">Time</th>
+                            <th class="hide-header">Cost</th>
+                            <th class="hide-header">Exp</th>
+                            <th>Rank</th>
+                            <th>Materials</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Rows added dynamically by JavaScript -->
+                    </tbody>
+                </table>
+            </section>
+
+            <!-- Crafting Recipes Section -->
+            <h2 class="table-title">Crafting Recipes</h2>
+            <section class="card">
+                <table id="recipeTable">
+                    <thead>
+                        <tr>
+                            <th>Select</th>
+                            <th>Recipe ID</th>
+                            <th>Item Name</th>
+                            <th>Category</th>
+                            <th class="hide-header">Time</th>
+                            <th class="hide-header">Cost</th>
+                            <th class="hide-header">Exp</th>
+                            <th>Rank</th>
+                            <th>Materials</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Rows added dynamically by JavaScript -->
+                    </tbody>
+                </table>
+            </section>
+        </main>
+    </div>
+
+    <script src="js/crafting.js"></script>
+</body>
+</html>
