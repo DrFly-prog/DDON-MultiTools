@@ -26,20 +26,20 @@
 
             <!-- Container for the two tables in columns -->
             <div class="table-container">
-                <!-- Item Drop Rates by Enemy Table -->
+                <!-- Drops Table -->
                 <section class="table-section">
-                    <h2 class="table-title">Item Drop Rates by Enemy</h2>
-                    <input type="text" id="itemEnemySearch" placeholder="Search in Item Drop Rates..." class="table-search">
-                    <table id="itemEnemyTable">
+                    <h2 class="table-title">Item Drops by Enemy</h2>
+                    <input type="text" id="dropsSearch" placeholder="Search in Drops Table..." class="table-search">
+                    <table id="dropsTable">
                         <thead>
                             <tr>
-                                <th>Item ID</th>
-                                <th>Item Name</th>
-                                <th>Drop Chance</th>
-                                <th>Enemy ID</th>
+                                <th>Drop Table ID</th>
                                 <th>Enemy Name</th>
-                                <th>Enemy Level Min</th>
-                                <th>Enemy Level Max</th>
+                                <th>Item ID</th>
+                                <th>Quantity</th>
+                                <th>Max Quantity</th>
+                                <th>Quality</th>
+                                <th>Drop Chance</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -48,18 +48,20 @@
                     </table>
                 </section>
 
-                <!-- Enemy Locations Table -->
+                <!-- Enemies Table -->
                 <section class="table-section">
-                    <h2 class="table-title">Enemy Locations</h2>
-                    <input type="text" id="mapEnemySearch" placeholder="Search in Enemy Locations..." class="table-search">
-                    <table id="mapEnemyTable">
+                    <h2 class="table-title">Enemies Locations</h2>
+                    <input type="text" id="enemiesSearch" placeholder="Search in Enemies Table..." class="table-search">
+                    <table id="enemiesTable">
                         <thead>
                             <tr>
-                                <th>Stage ID</th>
                                 <th>Stage Name</th>
-                                <th>Level</th>
+                                <th>Layer No</th>
+                                <th>Group ID</th>
+                                <th>SubGroup ID</th>
                                 <th>Enemy ID</th>
-                                <th>Enemy Name</th>
+                                <th>Level</th>
+                                <th>Experience</th>
                             </tr>
                         </thead>
                         <tbody>

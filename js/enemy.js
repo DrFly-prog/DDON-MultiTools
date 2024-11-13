@@ -1,73 +1,77 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Paths to JSON files in the data directory
-    const itemEnemyDataPath = 'data/Itemxenemy.json';
-    const mapEnemyDataPath = 'data/Mapxenemy.json';
+    const dropsTableBody = document.getElementById('dropsTable').querySelector('tbody');
+    const enemiesTableBody = document.getElementById('enemiesTable').querySelector('tbody');
+    let stageIdMap = {};
 
-    // Fetch and display Itemxenemy data
-    fetch(itemEnemyDataPath)
+    // Load Stage ID reference from stage_list.slt.json
+    fetch('data/stage_list.slt.json')
         .then(response => response.json())
-        .then(data => populateItemEnemyTable(data))
-        .catch(error => console.error('Error loading Itemxenemy data:', error));
+        .then(stageData => {
+            stageData.StageListInfoList.forEach(stage => {
+                stageIdMap[stage.StageId] = stage.StageName.En;
+            });
+            loadEnemyData(); // Call loadEnemyData after stageIdMap is ready
+        })
+        .catch(error => console.error('Error loading stage data:', error));
 
-    // Fetch and display Mapxenemy data
-    fetch(mapEnemyDataPath)
-        .then(response => response.json())
-        .then(data => populateMapEnemyTable(data))
-        .catch(error => console.error('Error loading Mapxenemy data:', error));
+    function loadEnemyData() {
+        fetch('data/EnemySpawn.json')
+            .then(response => response.json())
+            .then(data => {
+                populateDropsTable(data.dropsTables);
+                populateEnemiesTable(data.enemies);
+            })
+            .catch(error => console.error('Error loading EnemySpawn data:', error));
+    }
 
-    // Populate Itemxenemy Table
-    function populateItemEnemyTable(data) {
-        const tableBody = document.getElementById('itemEnemyTable').querySelector('tbody');
-        tableBody.innerHTML = ''; // Clear any existing rows
-        data.forEach(item => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-                <td>${item["Item iD"]}</td>
-                <td>${item["Item Name"]}</td>
-                <td>${item.Dropchance}</td>
-                <td>${item["Enemy Id"]}</td>
-                <td>${item["Enemy Name"]}</td>
-                <td>${item["Enemy Level Min"]}</td>
-                <td>${item["Enemy Level Max"]}</td>
-            `;
-            tableBody.appendChild(row);
+    function populateDropsTable(drops) {
+        drops.forEach(dropTable => {
+            dropTable.items.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${dropTable.id}</td>
+                    <td>${dropTable.name}</td>
+                    <td>${item[0]}</td>
+                    <td>${item[1]}</td>
+                    <td>${item[2]}</td>
+                    <td>${item[3]}</td>
+                    <td>${item[5]}</td>
+                `;
+                dropsTableBody.appendChild(row);
+            });
         });
     }
 
-    // Populate Mapxenemy Table
-    function populateMapEnemyTable(data) {
-        const tableBody = document.getElementById('mapEnemyTable').querySelector('tbody');
-        tableBody.innerHTML = ''; // Clear any existing rows
-        data.forEach(location => {
+    function populateEnemiesTable(enemies) {
+        enemies.forEach(enemy => {
             const row = document.createElement('tr');
+            const stageName = stageIdMap[enemy.StageId] || 'Unknown';
             row.innerHTML = `
-                <td>${location.StageId}</td>
-                <td>${location["Stage Name"]}</td>
-                <td>${location.Lv}</td>
-                <td>${location.EnemyId}</td>
-                <td>${location["Enemy Name"]}</td>
+                <td>${stageName}</td>
+                <td>${enemy.LayerNo}</td>
+                <td>${enemy.GroupId}</td>
+                <td>${enemy.SubGroupId}</td>
+                <td>${enemy.EnemyId}</td>
+                <td>${enemy.Lv}</td>
+                <td>${enemy.Experience}</td>
             `;
-            tableBody.appendChild(row);
+            enemiesTableBody.appendChild(row);
         });
     }
 
-    // Search functionality for Itemxenemy Table
-    document.getElementById('itemEnemySearch').addEventListener('input', function() {
+    // Search functionality for Drops Table
+    document.getElementById('dropsSearch').addEventListener('input', function() {
         const searchTerm = this.value.toLowerCase();
-        const rows = document.getElementById('itemEnemyTable').querySelectorAll('tbody tr');
-        rows.forEach(row => {
-            const rowText = row.textContent.toLowerCase();
-            row.style.display = rowText.includes(searchTerm) ? '' : 'none';
+        Array.from(dropsTableBody.querySelectorAll('tr')).forEach(row => {
+            row.style.display = row.textContent.toLowerCase().includes(searchTerm) ? '' : 'none';
         });
     });
 
-    // Search functionality for Mapxenemy Table
-    document.getElementById('mapEnemySearch').addEventListener('input', function() {
+    // Search functionality for Enemies Table
+    document.getElementById('enemiesSearch').addEventListener('input', function() {
         const searchTerm = this.value.toLowerCase();
-        const rows = document.getElementById('mapEnemyTable').querySelectorAll('tbody tr');
-        rows.forEach(row => {
-            const rowText = row.textContent.toLowerCase();
-            row.style.display = rowText.includes(searchTerm) ? '' : 'none';
+        Array.from(enemiesTableBody.querySelectorAll('tr')).forEach(row => {
+            row.style.display = row.textContent.toLowerCase().includes(searchTerm) ? '' : 'none';
         });
     });
 });
