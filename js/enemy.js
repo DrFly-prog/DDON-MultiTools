@@ -3,14 +3,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const enemiesTableBody = document.getElementById('enemiesTable').querySelector('tbody');
     let stageIdMap = {};
 
-    // Load Stage ID reference from stage_list.slt.json
+    // Load StageId mapping from stage_list.slt.json
     fetch('data/stage_list.slt.json')
         .then(response => response.json())
         .then(stageData => {
             stageData.StageListInfoList.forEach(stage => {
                 stageIdMap[stage.StageId] = stage.StageName.En;
             });
-            loadEnemyData(); // Call loadEnemyData after stageIdMap is ready
+            loadEnemyData(); // Load EnemySpawn.json after stageIdMap is ready
         })
         .catch(error => console.error('Error loading stage data:', error));
 
@@ -29,13 +29,11 @@ document.addEventListener('DOMContentLoaded', () => {
             dropTable.items.forEach(item => {
                 const row = document.createElement('tr');
                 row.innerHTML = `
-                    <td>${dropTable.id}</td>
-                    <td>${dropTable.name}</td>
-                    <td>${item[0]}</td>
-                    <td>${item[1]}</td>
-                    <td>${item[2]}</td>
-                    <td>${item[3]}</td>
-                    <td>${item[5]}</td>
+                    <td>${dropTable.id || 'N/A'}</td>
+                    <td>${dropTable.name || 'N/A'}</td>
+                    <td>${item[0] || 'N/A'}</td>
+                    <td>${item[2] || 'N/A'}</td>
+                     <td>${item[5] || 'N/A'}</td>
                 `;
                 dropsTableBody.appendChild(row);
             });
@@ -44,16 +42,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function populateEnemiesTable(enemies) {
         enemies.forEach(enemy => {
+            const stageName = stageIdMap[enemy[0]] || 'Unknown';
             const row = document.createElement('tr');
-            const stageName = stageIdMap[enemy.StageId] || 'Unknown';
             row.innerHTML = `
-                <td>${stageName}</td>
-                <td>${enemy.LayerNo}</td>
-                <td>${enemy.GroupId}</td>
-                <td>${enemy.SubGroupId}</td>
-                <td>${enemy.EnemyId}</td>
-                <td>${enemy.Lv}</td>
-                <td>${enemy.Experience}</td>
+                <td>${stageName}</td>          <!-- Replacing StageId with StageName -->
+                <td>${enemy[4] || 'N/A'}</td>   <!-- EnemyId -->
+                <td>${enemy[8] || 'N/A'}</td>   <!-- Level -->
+                <td>${enemy[23] || 'N/A'}</td>  <!-- Experience -->
             `;
             enemiesTableBody.appendChild(row);
         });

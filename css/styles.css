@@ -207,3 +207,14 @@ button.remove-btn:hover {
     border-bottom: 1px solid #f1f1f1;
 }
 
+/* Hide specific columns in the Enemies Table */
+.enemy-page .layer-no,
+.enemy-page .group-id,
+.enemy-page .sub-group-id,
+.enemy-page .layer-no + td,
+.enemy-page .group-id + td,
+.enemy-page .sub-group-id + td,
+.enemy-page .quality + td {
+    display: none;
+}
+
