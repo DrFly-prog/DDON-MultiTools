@@ -1,0 +1,2662 @@
+[
+  {
+    "id": "0x010100",
+    "name": "Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010101",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010102",
+    "name": "Shield Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010103",
+    "name": "Sling Goblin (Rock)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010104",
+    "name": "Goblin Leader",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010105",
+    "name": "Sling Goblin (Torch)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010110",
+    "name": "Hobgoblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010111",
+    "name": "Hobgoblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010112",
+    "name": "Sling Hobgoblin (Oil Flask)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010113",
+    "name": "Hobgoblin Leader",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010114",
+    "name": "Sling Hobgoblin (Torch)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010120",
+    "name": "Grim Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010121",
+    "name": "Grim Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010123",
+    "name": "Sling Grim Goblin (Oil Flask)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010124",
+    "name": "Grim Goblin Leader",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010130",
+    "name": "Greater Goblin (Sword)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010131",
+    "name": "Greater Goblin (Torch)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010140",
+    "name": "Goblin Shaman",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010141",
+    "name": "Goblin Aid Shaman",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010150",
+    "name": "Pixie",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010151",
+    "name": "Pixie Biff",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010152",
+    "name": "Pixie Din",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010153",
+    "name": "Pixie Pow",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010155",
+    "name": "Pixie Jabber",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010160",
+    "name": "Infected Hobgoblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010161",
+    "name": "Infected Hobgoblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010162",
+    "name": "Infected Sling Hobgoblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010170",
+    "name": "Severely Infected Pixie",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010171",
+    "name": "Severely Infected Pixie (Club)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010172",
+    "name": "Severely Infected Pixie (Corruption Seeds)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010180",
+    "name": "Goblin (Horn)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010190",
+    "name": "High Pixie Biff",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010191",
+    "name": "High Pixie Zolda",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010192",
+    "name": "High Pixie Pow",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010195",
+    "name": "Pixie King",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010200",
+    "name": "Wolf",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010201",
+    "name": "Direwolf",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010202",
+    "name": "Hellhound",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010203",
+    "name": "Warg",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010205",
+    "name": "Grimwarg",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010206",
+    "name": "Shadow Wolf",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010207",
+    "name": "Alchemized Wolf",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010208",
+    "name": "Damned Wolf",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010209",
+    "name": "Infected Direwolf",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010210",
+    "name": "Green Guardian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010211",
+    "name": "Bolt Grimwarg",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010212",
+    "name": "Blaze Wolf",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010220",
+    "name": "Severely Infected Warg",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010221",
+    "name": "Skeleton Warg",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010230",
+    "name": "War-Ready Grimwarg (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010240",
+    "name": "Valefar",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010300",
+    "name": "Skeleton",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010301",
+    "name": "Skeleton Knight",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010302",
+    "name": "Skeleton Warrior",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010303",
+    "name": "Skeleton Lord (Abyss)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010306",
+    "name": "Living Armor",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010307",
+    "name": "Skeleton Brute",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010308",
+    "name": "Skeleton Mage",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010309",
+    "name": "Skeleton Sorcerer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010310",
+    "name": "Death Knight",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010311",
+    "name": "Ghost Mail",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010312",
+    "name": "Alchemized Skeleton",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010313",
+    "name": "Skull Lord",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010314",
+    "name": "Flame Skeleton",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010315",
+    "name": "Frost Skeleton",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010316",
+    "name": "Bolt Skeleton",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010317",
+    "name": "Lux Skeleton",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010318",
+    "name": "Dark Skeleton",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010320",
+    "name": "Flame Skeleton Brute",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010321",
+    "name": "Frost Skeleton Brute",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010322",
+    "name": "Bolt Skeleton Brute",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010323",
+    "name": "Lux Skeleton Brute",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010324",
+    "name": "Dark Skeleton Brute",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010400",
+    "name": "Saurian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010401",
+    "name": "Giant Saurian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010410",
+    "name": "Sulfur Saurian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010411",
+    "name": "Giant Sulfur Saurian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010420",
+    "name": "Geo Saurian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010421",
+    "name": "Giant Geo Saurian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010430",
+    "name": "Saurian Sage",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010431",
+    "name": "Giant Saurian Sage",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010440",
+    "name": "Pyre Saurian (Salamander?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010450",
+    "name": "Rock Saurian",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010451",
+    "name": "Rock Saurian Spinel",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010460",
+    "name": "Blue Newt",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010461",
+    "name": "Large Newt",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010470",
+    "name": "War-Ready Saurian (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010471",
+    "name": "War-Ready Giant Saurian (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010480",
+    "name": "Merman",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010482",
+    "name": "Poison Merman",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010500",
+    "name": "Undead (Male)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010501",
+    "name": "Undead (Female)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010502",
+    "name": "Stout Undead",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010503",
+    "name": "Sword Undead",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010504",
+    "name": "Warrior Undead",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010508",
+    "name": "Eliminator",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010509",
+    "name": "Mudman",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010510",
+    "name": "Sludgeman",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010511",
+    "name": "Frost Corpse Punisher",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010512",
+    "name": "Frost Corpse Torturer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010513",
+    "name": "Flame Corpse Punisher",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010514",
+    "name": "Bolt Corpse Punisher",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010515",
+    "name": "Lux Corpse Punisher",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010516",
+    "name": "Dark Corpse Punisher",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010517",
+    "name": "Flame Corpse Torturer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010518",
+    "name": "Bolt Corpse Torturer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010519",
+    "name": "Lux Corpse Torturer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010520",
+    "name": "Dark Corpse Torturer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010530",
+    "name": "Eliminator Slay",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010600",
+    "name": "Harpy",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010601",
+    "name": "Snow Harpy",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010603",
+    "name": "Gargoyle",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010605",
+    "name": "Siren",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010606",
+    "name": "Alchemized Harpy",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010607",
+    "name": "Shadow Harpy",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010608",
+    "name": "Blaze Harpy",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010610",
+    "name": "Strix",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010611",
+    "name": "Stymphalídes",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010612",
+    "name": "Infected Snow Harpy",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010614",
+    "name": "Severely Infected Stymphalídes",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010621",
+    "name": "Ukobach",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010800",
+    "name": "Worm",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010810",
+    "name": "Leech",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010820",
+    "name": "Armored Insect (Blue)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010821",
+    "name": "Armored Insect (Red)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010822",
+    "name": "Armored Insect (Red) Passive AI ?",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010823",
+    "name": "Armored Insect (Red) Passive AI ?",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010900",
+    "name": "Slime",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010901",
+    "name": "Deep Slime",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010902",
+    "name": "Ooze",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010903",
+    "name": "Glutton Ooze",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010904",
+    "name": "Aqua Jelly",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010905",
+    "name": "Pyro Slime",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010906",
+    "name": "Freezing Slime",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010907",
+    "name": "Electric Slime",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010908",
+    "name": "Photon Slime",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010909",
+    "name": "Dim Slime",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010910",
+    "name": "Blob",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010911",
+    "name": "Acid Blob",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010915",
+    "name": "Stone Blob",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x010920",
+    "name": "Oil Jelly",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011000",
+    "name": "Rogue Fighter",
+    "DefaultHmPresetNo": 45
+  },
+  {
+    "id": "0x011001",
+    "name": "Rogue Seeker",
+    "DefaultHmPresetNo": 46
+  },
+  {
+    "id": "0x011002",
+    "name": "Rogue Hunter",
+    "DefaultHmPresetNo": 47
+  },
+  {
+    "id": "0x011003",
+    "name": "Rogue Healer",
+    "DefaultHmPresetNo": 48
+  },
+  {
+    "id": "0x011004",
+    "name": "Rogue Defender",
+    "DefaultHmPresetNo": 49
+  },
+  {
+    "id": "0x011005",
+    "name": "Rogue Mage",
+    "DefaultHmPresetNo": 50
+  },
+  {
+    "id": "0x011006",
+    "name": "Rogue Warrior",
+    "DefaultHmPresetNo": 51
+  },
+  {
+    "id": "0x011010",
+    "name": "Banded Fighter",
+    "DefaultHmPresetNo": 52
+  },
+  {
+    "id": "0x011011",
+    "name": "Banded Seeker",
+    "DefaultHmPresetNo": 53
+  },
+  {
+    "id": "0x011012",
+    "name": "Banded Hunter",
+    "DefaultHmPresetNo": 54
+  },
+  {
+    "id": "0x011013",
+    "name": "Banded Healer",
+    "DefaultHmPresetNo": 55
+  },
+  {
+    "id": "0x011014",
+    "name": "Banded Defender",
+    "DefaultHmPresetNo": 56
+  },
+  {
+    "id": "0x011015",
+    "name": "Banded Mage",
+    "DefaultHmPresetNo": 57
+  },
+  {
+    "id": "0x011016",
+    "name": "Banded Warrior",
+    "DefaultHmPresetNo": 58
+  },
+  {
+    "id": "0x011020",
+    "name": "Mergan Fighter",
+    "DefaultHmPresetNo": 59
+  },
+  {
+    "id": "0x011021",
+    "name": "Mergan Seeker",
+    "DefaultHmPresetNo": 60
+  },
+  {
+    "id": "0x011022",
+    "name": "Mergan Hunter",
+    "DefaultHmPresetNo": 61
+  },
+  {
+    "id": "0x011023",
+    "name": "Mergan Healer",
+    "DefaultHmPresetNo": 62
+  },
+  {
+    "id": "0x011024",
+    "name": "Mergan Defender",
+    "DefaultHmPresetNo": 63
+  },
+  {
+    "id": "0x011025",
+    "name": "Mergan Mage",
+    "DefaultHmPresetNo": 64
+  },
+  {
+    "id": "0x011026",
+    "name": "Mergan Warrior",
+    "DefaultHmPresetNo": 65
+  },
+  {
+    "id": "0x011027",
+    "name": "Mergan Element Archer",
+    "DefaultHmPresetNo": 66
+  },
+  {
+    "id": "0x011030",
+    "name": "Mist Fighter",
+    "DefaultHmPresetNo": 68
+  },
+  {
+    "id": "0x011031",
+    "name": "Mist Hunter",
+    "DefaultHmPresetNo": 69
+  },
+  {
+    "id": "0x011032",
+    "name": "Mist Priest",
+    "DefaultHmPresetNo": 70
+  },
+  {
+    "id": "0x011033",
+    "name": "Mist Sorcerer",
+    "DefaultHmPresetNo": 71
+  },
+  {
+    "id": "0x011034",
+    "name": "Mist Warrior",
+    "DefaultHmPresetNo": 72
+  },
+  {
+    "id": "0x011040",
+    "name": "Iris",
+    "DefaultHmPresetNo": 74
+  },
+  {
+    "id": "0x011041",
+    "name": "Diamantes (Human)",
+    "DefaultHmPresetNo": 75
+  },
+  {
+    "id": "0x011042",
+    "name": "Leo",
+    "DefaultHmPresetNo": 76
+  },
+  {
+    "id": "0x011043",
+    "name": "Hooded Iris (???)",
+    "DefaultHmPresetNo": 86
+  },
+  {
+    "id": "0x011044",
+    "name": "Former Commander Leo (Final Boss)",
+    "DefaultHmPresetNo": 112
+  },
+  {
+    "id": "0x011050",
+    "name": "Pawn Fighter",
+    "DefaultHmPresetNo": 77
+  },
+  {
+    "id": "0x011051",
+    "name": "Pawn Seeker",
+    "DefaultHmPresetNo": 78
+  },
+  {
+    "id": "0x011052",
+    "name": "Pawn Hunter",
+    "DefaultHmPresetNo": 79
+  },
+  {
+    "id": "0x011053",
+    "name": "Pawn Healer",
+    "DefaultHmPresetNo": 80
+  },
+  {
+    "id": "0x011054",
+    "name": "Pawn Defender",
+    "DefaultHmPresetNo": 81
+  },
+  {
+    "id": "0x011055",
+    "name": "Pawn Mage",
+    "DefaultHmPresetNo": 82
+  },
+  {
+    "id": "0x011056",
+    "name": "Pawn Warrior",
+    "DefaultHmPresetNo": 83
+  },
+  {
+    "id": "0x011057",
+    "name": "Pawn Element Archer",
+    "DefaultHmPresetNo": 84
+  },
+  {
+    "id": "0x011060",
+    "name": "Phindymian Fighter",
+    "DefaultHmPresetNo": 94
+  },
+  {
+    "id": "0x011061",
+    "name": "Phindymian Seeker",
+    "DefaultHmPresetNo": 95
+  },
+  {
+    "id": "0x011062",
+    "name": "Phindymian Hunter",
+    "DefaultHmPresetNo": 96
+  },
+  {
+    "id": "0x011063",
+    "name": "Phindymian Priest",
+    "DefaultHmPresetNo": 97
+  },
+  {
+    "id": "0x011064",
+    "name": "Phindymian Defender",
+    "DefaultHmPresetNo": 98
+  },
+  {
+    "id": "0x011065",
+    "name": "Phindymian Sorcerer",
+    "DefaultHmPresetNo": 99
+  },
+  {
+    "id": "0x011066",
+    "name": "Phindymian Warrior",
+    "DefaultHmPresetNo": 100
+  },
+  {
+    "id": "0x011067",
+    "name": "Phindymian Element Archer",
+    "DefaultHmPresetNo": 101
+  },
+  {
+    "id": "0x011068",
+    "name": "0x011068 (No Enemy)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011069",
+    "name": "0x011069 (No Enemy)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011070",
+    "name": "Scarlet Fighter",
+    "DefaultHmPresetNo": 87
+  },
+  {
+    "id": "0x011071",
+    "name": "Scarlet Seeker",
+    "DefaultHmPresetNo": 88
+  },
+  {
+    "id": "0x011072",
+    "name": "Scarlet Hunter",
+    "DefaultHmPresetNo": 89
+  },
+  {
+    "id": "0x011073",
+    "name": "Scarlet Healer",
+    "DefaultHmPresetNo": 90
+  },
+  {
+    "id": "0x011074",
+    "name": "Scarlet Defender",
+    "DefaultHmPresetNo": 91
+  },
+  {
+    "id": "0x011075",
+    "name": "Scarlet Mage",
+    "DefaultHmPresetNo": 92
+  },
+  {
+    "id": "0x011076",
+    "name": "Scarlet Warrior",
+    "DefaultHmPresetNo": 93
+  },
+  {
+    "id": "0x011080",
+    "name": "Megado Guard (Fighter?)",
+    "DefaultHmPresetNo": 102
+  },
+  {
+    "id": "0x011081",
+    "name": "Megado Guard (Seeker?)",
+    "DefaultHmPresetNo": 103
+  },
+  {
+    "id": "0x011082",
+    "name": "Megado Guard (Hunter?)",
+    "DefaultHmPresetNo": 104
+  },
+  {
+    "id": "0x011083",
+    "name": "Megado Guard (Warrior?)",
+    "DefaultHmPresetNo": 105
+  },
+  {
+    "id": "0x011100",
+    "name": "Forest Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011101",
+    "name": "Forest Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011102",
+    "name": "Sling Forest Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011110",
+    "name": "Redcap",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011111",
+    "name": "Redcap Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011112",
+    "name": "Sling Redcap",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011120",
+    "name": "Alchemized Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011121",
+    "name": "Alchemized Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011122",
+    "name": "Alchemized Sling Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011123",
+    "name": "Damned Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011124",
+    "name": "Damned Sling Goblin (Flask)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011125",
+    "name": "Damned Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011130",
+    "name": "Shadow Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011131",
+    "name": "Shadow Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011132",
+    "name": "Shadow Sling Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011140",
+    "name": "Goblin King (NPC)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011150",
+    "name": "Goblin Bomber",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011160",
+    "name": "Shadow Goblin Leader",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011170",
+    "name": "Blaze Goblin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011171",
+    "name": "Blaze Goblin (Fighter?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011172",
+    "name": "Blaze Goblin (Sling?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011173",
+    "name": "Blaze Goblin Leader",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011200",
+    "name": "Killer Bee",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011201",
+    "name": "Albe (Parasitic Poison)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011210",
+    "name": "Moth (Cyan / Sleep)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011211",
+    "name": "Moth (Magenta / Poison)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011300",
+    "name": "Mandragora",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011301",
+    "name": "Mandragora (Flower)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011302",
+    "name": "Habanero",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011400",
+    "name": "Maneater",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011401",
+    "name": "Maneater (Closed)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011410",
+    "name": "Tentacle (Evil Eye)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011411",
+    "name": "Tentacle (Evil Eye)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011412",
+    "name": "Tentacle (Volt Eye)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011413",
+    "name": "Tentacle (Volt Eye)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x011500",
+    "name": "Foot-Biter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015000",
+    "name": "Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015001",
+    "name": "Cyclops (Club)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015002",
+    "name": "Armored Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015003",
+    "name": "Armored Cyclops (Club)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015004",
+    "name": "Cyclops (Giant)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015010",
+    "name": "Gorecyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015012",
+    "name": "Infected Gorecyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015017",
+    "name": "Severely Infected Gorecyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015020",
+    "name": "Colossus",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015030",
+    "name": "Grand Ent",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015031",
+    "name": "Ent",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015032",
+    "name": "Phindymian Ent",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015033",
+    "name": "Burned Ent",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015040",
+    "name": "Troll",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015041",
+    "name": "Mole Troll",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015042",
+    "name": "Fodden",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015050",
+    "name": "Skeleton Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015051",
+    "name": "Skeleton Cyclops (Test)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015052",
+    "name": "Frost Skeleton Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015053",
+    "name": "Bolt Skeleton Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015054",
+    "name": "Flame Skeleton Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015060",
+    "name": "War-Ready Gorecyclops (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015061",
+    "name": "War-Ready Gorecyclops (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015100",
+    "name": "Golem",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015102",
+    "name": "Goliath",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015103",
+    "name": "Damned Golem",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015104",
+    "name": "Geo Golem",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015105",
+    "name": "Goliath + Cyclops (Test)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015200",
+    "name": "Chimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015201",
+    "name": "Gorechimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015202",
+    "name": "White Chimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015203",
+    "name": "Shadow Chimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015204",
+    "name": "Blaze Chimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015210",
+    "name": "Manticore",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015211",
+    "name": "Goremanticore",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015220",
+    "name": "War-Ready Goremanticore (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015230",
+    "name": "Abaddon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015300",
+    "name": "Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015301",
+    "name": "Cockatrice",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015302",
+    "name": "Sphinx",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015303",
+    "name": "Black Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015304",
+    "name": "Alchemized Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015305",
+    "name": "Nightmare",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015306",
+    "name": "Infected Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015310",
+    "name": "Severely Infected Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015320",
+    "name": "White Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015321",
+    "name": "Bifrest",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015330",
+    "name": "War-Ready Nightmare (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015400",
+    "name": "Evil Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015401",
+    "name": "Vile Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015406",
+    "name": "Volt Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015410",
+    "name": "Crystal Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015411",
+    "name": "Ruby Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015412",
+    "name": "Lapis Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015413",
+    "name": "Emerald Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015420",
+    "name": "Alchemy Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015500",
+    "name": "Ogre",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015502",
+    "name": "Dread Ape",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015503",
+    "name": "Ghoul",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015504",
+    "name": "Brute Ape",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015505",
+    "name": "Silver Roar",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015506",
+    "name": "Spineback",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015507",
+    "name": "Little Spine",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015508",
+    "name": "Cragger",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015509",
+    "name": "Little Crag",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015510",
+    "name": "War-Ready Ogre (Light Armor)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015600",
+    "name": "Wight",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015603",
+    "name": "Death",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015604",
+    "name": "Witch",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015605",
+    "name": "Empress Ghost",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015610",
+    "name": "Medusa",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015611",
+    "name": "Gorgon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015620",
+    "name": "Ghost",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015621",
+    "name": "Misery Ghost",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015622",
+    "name": "Grudge Ghost",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015623",
+    "name": "Rage Ghost",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015700",
+    "name": "Drake",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015701",
+    "name": "Wyrm",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015706",
+    "name": "Cursed Dragon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015707",
+    "name": "Lindwurm",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015708",
+    "name": "Angules",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015709",
+    "name": "Behemoth",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015710",
+    "name": "Mist Drake",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015711",
+    "name": "Mist Wyrm",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015712",
+    "name": "Infected Behemoth",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015717",
+    "name": "Severely Infected Behemoth",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015718",
+    "name": "Lotus Fin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015719",
+    "name": "Dagon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015720",
+    "name": "Tarasque",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015721",
+    "name": "Wisened Tarasque",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015723",
+    "name": "White Tarasque",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015730",
+    "name": "Catoblepas",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015740",
+    "name": "Behemoth (\"Goblin\" Test)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015800",
+    "name": "Orc Soldier",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015801",
+    "name": "Orc Aimer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015802",
+    "name": "Orc Banger",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015810",
+    "name": "Orc Battler",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015811",
+    "name": "Orc Bringer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015812",
+    "name": "Orc Trooper",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015813",
+    "name": "Infected Orc Soldier",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015814",
+    "name": "Infected Orc Aimer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015815",
+    "name": "Infected Orc Banger",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015820",
+    "name": "Captain Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015821",
+    "name": "Sword Soldier Dwarf Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015822",
+    "name": "Blunt Soldier Dwarf Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015823",
+    "name": "Heavy Soldier Dwarf Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015824",
+    "name": "Ranged Soldier Dwarf Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015825",
+    "name": "Dwarf Orc (Test?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015826",
+    "name": "Squad Leader Dwarf Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015830",
+    "name": "General Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015831",
+    "name": "Ancestor Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015832",
+    "name": "Ancestor Orc (Fighter)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015833",
+    "name": "Ancestor Orc (Different Bones)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015835",
+    "name": "Legion",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015836",
+    "name": "Legion (Fighter)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015837",
+    "name": "Legion (Different Bones)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015838",
+    "name": "Legion Leader",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015839",
+    "name": "Captain Ancestor Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015840",
+    "name": "Mogok",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015850",
+    "name": "Gigant Machina",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015851",
+    "name": "Frost Machina",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015852",
+    "name": "Bolt Machina",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015860",
+    "name": "War Master",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015861",
+    "name": "Beast Master",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015862",
+    "name": "Necro Master",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015863",
+    "name": "Shadow Master (Invulnerable)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015870",
+    "name": "Ancestor Origin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015900",
+    "name": "Grigori",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015910",
+    "name": "Severely Infected Demon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015920",
+    "name": "Bearded Grigori",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015921",
+    "name": "Samyaza",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015930",
+    "name": "Blaze Grigori",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x015932",
+    "name": "Shadow Grigori",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018000",
+    "name": "Rabbit",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018100",
+    "name": "Bat",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018200",
+    "name": "Buck",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018201",
+    "name": "Doe",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018300",
+    "name": "Ox",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018401",
+    "name": "Giant Rat",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018600",
+    "name": "Boar",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018601",
+    "name": "Pig",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018602",
+    "name": "Piglet",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018603",
+    "name": "Pig (Dirty)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018604",
+    "name": "Piglet (Dirty)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018700",
+    "name": "Snake",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x018800",
+    "name": "Spider",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x019000",
+    "name": "Chicken (White)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x019001",
+    "name": "Chicken (Brown)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x019100",
+    "name": "Goat",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x019200",
+    "name": "Frog (Gold?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x019201",
+    "name": "Frog (Blue?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x019300",
+    "name": "Wild Boar (Brown)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x019301",
+    "name": "Wild Boar (Stripes)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020402",
+    "name": "Zuhl",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020403",
+    "name": "Altered Zuhl",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020404",
+    "name": "Red Zuhl",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020500",
+    "name": "Diamantes",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020601",
+    "name": "Scourge",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020602",
+    "name": "Baphomet",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020606",
+    "name": "Severely Infected Scourge",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020700",
+    "name": "Black Knight (Dark Only)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020701",
+    "name": "Black Knight (Holy/Ice)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020702",
+    "name": "Black Knight (Holy/Ice)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020803",
+    "name": "Ifrit - 1st Form",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x020804",
+    "name": "Ifrit - 2nd Form",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x021000",
+    "name": "White Dragon (NPC)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x021001",
+    "name": "Elder Dragon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x021002",
+    "name": "Golgorran",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x021003",
+    "name": "White Dragon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x021004",
+    "name": "Ushumgal",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x022000",
+    "name": "Spirit Dragon Willmia",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x022001",
+    "name": "Spirit Dragon Willmia (\"Goblin\" Test)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x023000",
+    "name": "The Evil Dragon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x024000",
+    "name": "Black Dragon - 1st Form",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x024001",
+    "name": "Black Dragon - 2nd Form (Untranslated)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x024002",
+    "name": "Black Dragon - 2nd Form (Damaged)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030100",
+    "name": "Unspeakable Meat",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030101",
+    "name": "Giant Unspeakable Meat",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030104",
+    "name": "Dragon Crystal of Praying (Spirit Dragon Willmia WM)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030105",
+    "name": "Dragon Crystal of Groaning (Spirit Dragon Willmia WM)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030106",
+    "name": "No Enemy (In-Combat)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030107",
+    "name": "Dragon Crystal (The Evil Dragon WM) (Untranslated)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030108",
+    "name": "No Enemy (In-Combat)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030109",
+    "name": "Rock (The Evil Dragon WM)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030110",
+    "name": "Totem (Shadow Master WM) (Untranslated)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030111",
+    "name": "No Enemy (In-Combat)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030112",
+    "name": "Dragon Crystal of Darkness (Invulnerable) (Ground)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030113",
+    "name": "Dragon Crystal of Darkness (Invulnerable) (Flying)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030114",
+    "name": "Crystal of Blessing",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030115",
+    "name": "Dragon Crystal of Darkness (Flying) (Untranslated)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030116",
+    "name": "Dragon Crystal of Destruction",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030117",
+    "name": "Dragon Crystal of Binding (Black Dragon)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x030118",
+    "name": "Black Sword",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070041",
+    "name": "Colossus",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070042",
+    "name": "Colossus",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070050",
+    "name": "Gorecyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070051",
+    "name": "Gorecyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070200",
+    "name": "Ghoul",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070210",
+    "name": "Spineback",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070211",
+    "name": "Spineback",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070410",
+    "name": "Mole Troll",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070510",
+    "name": "Grand Ent",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070520",
+    "name": "Phindymian Ent",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070600",
+    "name": "Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070610",
+    "name": "Black Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070620",
+    "name": "White Griffin",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070640",
+    "name": "Bifrest",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070641",
+    "name": "Bifrest",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070700",
+    "name": "Sphinx",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070800",
+    "name": "Chimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070810",
+    "name": "White Chimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070820",
+    "name": "Gorechimera",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070830",
+    "name": "Manticore",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070900",
+    "name": "Drake",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070910",
+    "name": "Wyrm",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070920",
+    "name": "Angules",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070930",
+    "name": "Behemoth",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070940",
+    "name": "Lindwurm",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x070950",
+    "name": "Tarasque (\"Goblin\" Test)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071100",
+    "name": "Elder Dragon (Epitath Road Trial?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071101",
+    "name": "Black Dragon - 1st Form (Cutscene?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071102",
+    "name": "Black Dragon - 2nd Form (Cutscene?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071250",
+    "name": "Shadow Master (Giant)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071251",
+    "name": "War Master",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071252",
+    "name": "Beast Master",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071300",
+    "name": "Zuhl",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071310",
+    "name": "Scourge",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071311",
+    "name": "Baphomet (Enraged)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x071400",
+    "name": "Empty (No Enemy)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075120",
+    "name": "Skeleton Mage",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075121",
+    "name": "Skeleton Mage (Different AI?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075130",
+    "name": "Skeleton Sorcerer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075131",
+    "name": "Skeleton Sorcerer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075300",
+    "name": "Skeleton Sorcerer",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075400",
+    "name": "The Evil Dragon (Sparks?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075401",
+    "name": "The Evil Dragon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x075700",
+    "name": "Wight",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x077000",
+    "name": "Albe's Nest",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x079000",
+    "name": "Empty (No Enemy)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080000",
+    "name": "Elder Dragon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080100",
+    "name": "Golgorran",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080200",
+    "name": "Grand Ent",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080300",
+    "name": "Zuhl",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080400",
+    "name": "Spirit Dragon Willmia",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080500",
+    "name": "Black Knight Phantom (Clear)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080501",
+    "name": "Black Knight",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080502",
+    "name": "Black Knight (Fan of Swords)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080503",
+    "name": "Black Knight Phantom (Opaque)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080504",
+    "name": "Arisen of the Black Dragon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080505",
+    "name": "Black Sword",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080600",
+    "name": "Wisened Tarasque",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080700",
+    "name": "Evil Eye",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080800",
+    "name": "Abbadon",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080801",
+    "name": "Albe",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080802",
+    "name": "Empty (No Enemy)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080900",
+    "name": "Baphomet",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x080901",
+    "name": "Baphomet (Glowing Purple)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081000",
+    "name": "Black Dragon - 1st Form",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081001",
+    "name": "Black Dragon - 2nd Form",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081002",
+    "name": "Black Dragon - 1st Form (Again. EM??)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081003",
+    "name": "Black Dragon - 2nd form (Again. EM??)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081004",
+    "name": "Dragon Crystal of Destruction / shoots laser rocks",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081005",
+    "name": "Dragon Crystal of Destruction / sucks you in with magic",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081006",
+    "name": "Dragon Crystal of Destruction / lots of laser rocks and big explosion",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x081007",
+    "name": "Dragon Crystal of Destruction / sucks you in with magic",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085000",
+    "name": "Orc Soldier",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085001",
+    "name": "Orc Soldier",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085002",
+    "name": "Orc Soldier",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085003",
+    "name": "Orc Soldier",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085004",
+    "name": "Captain Orc",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085009",
+    "name": "Orc (\"Goblin\" Test)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085010",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085011",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085012",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085013",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085014",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085015",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085016",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085017",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085018",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085019",
+    "name": "Goblin Fighter",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085110",
+    "name": "Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085111",
+    "name": "Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085112",
+    "name": "Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085113",
+    "name": "Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x085114",
+    "name": "Cyclops",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x095801",
+    "name": "Gigant Machina Trinity",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x095802",
+    "name": "Frost Machina Trinity",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x095803",
+    "name": "Bolt Machina Trinity",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x100100",
+    "name": "Behemoth (Test?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x100101",
+    "name": "Zuhl (Passive)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x100104",
+    "name": "Black Knight (Getting injured / Cutscene?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x100105",
+    "name": "Spirit Dragon Willmia (Test?)",
+    "DefaultHmPresetNo": 0
+  },
+  {
+    "id": "0x100106",
+    "name": "Spirit Dragon Willmia (Active)",
+    "DefaultHmPresetNo": 0
+  }
+]
