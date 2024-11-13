@@ -1,30 +1,49 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jeu - Accueil</title>
+    <title>Dashboard</title>
     <link rel="stylesheet" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="sidebar">
-        <h2>Menu</h2>
-        <nav>
-            <a href="crafting.html">Recherche crafting</a>
-            <a href="enemies.html">Ennemis et Loots</a>
-            <a href="maps.html">Cartes</a>
-        </nav>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <img src="images/dr_fly_logo_tools.png" alt="DDON Tools Logo" class="sidebar-logo">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Dashboard</a></li>
+                    <li><a href="crafting.html">Crafting Materials</a></li>
+                    <li><a href="enemy.html">Enemy & Loots</a></li>
+                    <li><a href="maps.html">Maps</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Wish List Section -->
+            <h2 class="table-title">My Craft Wish List</h2>
+            <section class="card secondary-card">
+                <table id="wishListTable">
+                    <thead>
+                        <tr>
+                            <th>Recipe ID</th>
+                            <th>Item Name</th>
+                            <th>Category</th>
+                            <th>Rank</th>
+                            <th>Materials</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Rows will be added dynamically by JavaScript -->
+                    </tbody>
+                </table>
+            </section>
+        </main>
     </div>
-    <main>
-        <header>
-            <h1>Accueil</h1>
-            <p>Résumé des sélections récentes</p>
-        </header>
-        <section id="summary">
-            <!-- Contenu dynamique du résumé des sélections -->
-        </section>
-    </main>
-    <script src="js/main.js"></script>
+
+    <script src="js/dashboard.js"></script>
 </body>
 </html>

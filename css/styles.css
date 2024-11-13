@@ -130,9 +130,6 @@ table th, table td {
     border-bottom: 1px solid #f1f1f1;
 }
 
-table tr:hover {
-    background-color: #f1f1f1;
-}
 
 button.remove-btn {
     padding: 5px 10px;
@@ -161,3 +158,52 @@ button.remove-btn:hover {
 .highlight-orange {
     color: #ffc107;
 }
+
+/* Styles specific to the Enemy page */
+.enemy-page .table-container {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.enemy-page .table-section {
+    width: 50%;
+}
+
+.enemy-page .table-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.enemy-page .table-search {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* Specific table styling for the Enemy page */
+.enemy-page table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.enemy-page table thead {
+    background-color: #03A9F4;
+    color: white;
+}
+
+.enemy-page table th, 
+.enemy-page table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #f1f1f1;
+}
+
